@@ -1,0 +1,20 @@
+{
+  "name": "blindspot",
+  "version": "1.0.0",
+  "description": "Parking Stuff Automated",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Parking",
+    "Blind",
+    "Spot"
+  ],
+  "author": "Anmol Modur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
